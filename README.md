@@ -1,3 +1,3 @@
 # uiet-edits
 repository
-UIET is a great college
+UIET is a great college.
